@@ -1,0 +1,5 @@
+com/example/demo/DemoApplication.class
+com/example/beer/BeerController.class
+com/example/beer/BeerCommandLineRunner.class
+com/example/beer/Beer.class
+com/example/beer/BeerRepository.class
